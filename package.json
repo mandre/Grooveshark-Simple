@@ -1,0 +1,9 @@
+{
+    "name": "gs-simple", 
+    "license": "MPL", 
+    "author": "Martin Andr\u00e9", 
+    "version": "0.1", 
+    "fullName": "Grooveshark Simple", 
+    "id": "jid1-RXQ8E4TYvtGFAg", 
+    "description": "A minimal version of Grooveshark Remote Control by Hernan Rodriguez Colmeiro."
+}
